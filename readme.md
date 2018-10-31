@@ -1,0 +1,1 @@
+hosting tile images for NorthWest Canal Project, a student project from Liz Krydor-Reid's H547 class. Contact Caitlin Pollock if you have questions about this repo,
